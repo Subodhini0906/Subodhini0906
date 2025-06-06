@@ -10,6 +10,12 @@ I'm a passionate web developer with a strong foundation in front-end and back-en
 - **Version Control:** Git, GitHub
 - **Tools:** VS Code, Figma
 
+## 📊 GitHub Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Subodhini0906)
+
+<br/>
+
 ## 🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/subodhini-aggarwal-622a1b251
 - Portfolio: https://portfolio-subodhini.vercel.app/
