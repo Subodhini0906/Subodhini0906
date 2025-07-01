@@ -21,6 +21,10 @@ I'm a passionate web developer with a strong foundation in front-end and back-en
 - Portfolio: https://portfolio-subodhini.vercel.app/
 - Twitter: https://x.com/SubodhiniA19561
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subodhini0906" alt="Profile view counter on GitHub">
+</p>
+
 ## 📬 Contact
 If you have any questions or collaboration opportunities, feel free to reach out!
 
