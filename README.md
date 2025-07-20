@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subodhini!!
+# 👋 Hi, I'm Subodhini!
 
 ## 🚀 About Me
 I'm a passionate web developer with a strong foundation in front-end and back-end technologies. I love creating interactive and user-friendly applications using modern frameworks and tools.
